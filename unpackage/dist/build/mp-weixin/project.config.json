@@ -1,0 +1,37 @@
+{
+    "description": "项目配置文件。",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "setting": {
+        "urlCheck": false,
+        "es6": false,
+        "postcss": false,
+        "minified": true,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        }
+    },
+    "compileType": "miniprogram",
+    "libVersion": "2.24.6",
+    "appid": "wx1fcd6e2e840c9e0c",
+    "projectname": "抽赏",
+    "condition": {
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "test",
+                    "pathName": "pages/index/index",
+                    "query": ""
+                }
+            ]
+        }
+    },
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    }
+}

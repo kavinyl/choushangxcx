@@ -1,0 +1,1 @@
+<view class="container"><form bindsubmit="{{d}}" ref="deposit"><view class="title"> 充值金额 </view><view class="money"><text class="rmb">￥</text> <input focus name="deposit" type="number" class="input" bindblur="{{a}}" value="{{b}}" bindinput="{{c}}"></input></view><button class="btn t-c" form-type="submit">微信充值</button></form></view>

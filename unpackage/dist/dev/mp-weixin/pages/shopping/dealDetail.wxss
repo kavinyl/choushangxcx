@@ -1,0 +1,305 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.test {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.container-detail {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 50rpx);
+}
+.introduction {
+  padding: 20rpx 15rpx;
+}
+.introduction .intro-top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15rpx;
+}
+.introduction .intro-top .user-img {
+  width: 60rpx;
+  height: 60rpx;
+}
+.introduction .intro-top .user-name {
+  font-size: 30rpx;
+  color: #7C7B7B;
+  flex: 1;
+  margin-left: 10rpx;
+}
+.introduction .intro-top .countdown {
+  display: inline-flex;
+}
+.introduction .intro-top .countdown .pic {
+  width: 36rpx;
+  height: 36rpx;
+}
+.introduction .deal-info {
+  width: 100%;
+  margin: 35rpx 0;
+  padding: 0 15rpx;
+  font-size: 30rpx;
+}
+.introduction .lists {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  overflow: hidden;
+  background-color: #FEF4DC;
+  border-radius: 10rpx;
+}
+.introduction .lists .wish {
+  width: 140rpx;
+  height: 140rpx;
+}
+.introduction .lists .sell {
+  display: inline-flex;
+  flex: 1;
+  flex-wrap: nowrap;
+  overflow: auto;
+}
+.introduction .lists .border {
+  padding: 15rpx;
+  position: relative;
+  width: 140rpx;
+  height: 140rpx;
+}
+.introduction .lists .border .pic {
+  width: 110rpx;
+  height: 110rpx;
+}
+.introduction .lists .border .type {
+  width: 40rpx;
+  height: 40rpx;
+  position: absolute;
+  top: 15rpx;
+  left: 15rpx;
+  background-color: #020202;
+  font-size: 30rpx;
+  color: #FDB302;
+  border-radius: 10rpx;
+}
+.introduction .item-bottom {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  font-size: 24rpx;
+  color: #575757;
+  margin: 10rpx 15rpx;
+}
+.introduction .item-bottom .lowprice {
+  margin-right: 35rpx;
+}
+.introduction .item-bottom .price {
+  color: #000;
+}
+.introduction .buttons {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: right;
+  align-items: center;
+  margin-top: 35rpx;
+}
+.introduction .buttons .btn {
+  padding: 0 35rpx;
+  height: 70rpx;
+  line-height: 70rpx;
+  border-radius: 35rpx;
+  margin-left: 20rpx;
+  font-size: 22rpx;
+}
+.introduction .buttons .plus-ten {
+  background-color: #FEE8B4;
+  color: #FB9503;
+}
+.introduction .buttons .deal-now {
+  background-color: #F9B002;
+  color: #fff;
+}
+.auctions {
+  margin: 30rpx;
+  padding-bottom: 100rpx;
+}
+.auctions .join-times {
+  font-size: 24rpx;
+  color: #565656;
+}
+.auctions .list {
+  margin-top: 20rpx;
+}
+.auctions .list .border {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  height: 88rpx;
+  border-bottom: 1rpx solid #EEEEEE;
+}
+.auctions .list .border .floor {
+  font-size: 24rpx;
+  color: #727272;
+}
+.auctions .list .border .user-img {
+  width: 45rpx;
+  height: 45rpx;
+  border-radius: 25rpx;
+  overflow: hidden;
+  margin: 0 10rpx;
+}
+.auctions .list .border .user-name {
+  font-size: 28rpx;
+  color: #7D7D7D;
+  flex: 1;
+}
+.auctions .list .border .price {
+  font-size: 22rpx;
+  color: #575757;
+}
+.auctions .list .border .price .txt {
+  font-size: 28rpx;
+  color: #F9B002;
+}
+.auctions .list .border .deal-success {
+  margin-left: 100rpx;
+  width: 38rpx;
+  height: 39rpx;
+}
+.bottom {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100rpx;
+  border-top: 1rpx solid #F7F7F7;
+  background-color: #fff;
+}
+.bottom .btn {
+  margin: 16rpx auto;
+  width: 340rpx;
+  height: 68rpx;
+  color: #fff;
+  border-radius: 34rpx;
+  line-height: 68rpx;
+  background-color: #F9B002;
+  font-size: 26rpx;
+}
+.update-bid,
+.master {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  padding: 0 15rpx;
+}
+.update-bid .current,
+.master .current {
+  flex: 1;
+  font-size: 24rpx;
+  color: #838383;
+}
+.update-bid .current .price,
+.master .current .price {
+  font-size: 40rpx;
+  color: #F9B002;
+}
+.update-bid .btn,
+.master .btn {
+  width: 250rpx;
+  margin: 0 25rpx;
+}
+.update-bid .cancel,
+.master .cancel {
+  font-size: 26rpx;
+  color: #5E5E5E;
+}
+.master {
+  width: 100%;
+  justify-content: flex-end;
+}
+.master .btn {
+  width: 340rpx;
+  display: inline-flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin-right: 80rpx;
+}
+.master .pic {
+  width: 30rpx;
+  height: 30rpx;
+  margin: 0 10rpx;
+}
+.popup-order .popup-title,
+.popup-success .popup-title {
+  font-size: 28rpx;
+  color: #020202;
+  line-height: 42rpx;
+}
+.popup-order .popup-center,
+.popup-success .popup-center {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20rpx;
+}
+.popup-order .popup-center .one-price,
+.popup-order .popup-center .success,
+.popup-success .popup-center .one-price,
+.popup-success .popup-center .success {
+  font-size: 24rpx;
+  color: #020202;
+}
+.popup-order .popup-center .txt,
+.popup-success .popup-center .txt {
+  font-size: 30rpx;
+}
+.popup-order .popup-center .remain,
+.popup-success .popup-center .remain {
+  margin-top: 40rpx;
+  width: 100%;
+  font-size: 24rpx;
+  color: #646363;
+}
+.popup-order .popup-bottom,
+.popup-success .popup-bottom {
+  margin: 65rpx auto 0;
+}
+ .popup-order .uni-popup__wrapper, .popup-success .uni-popup__wrapper {
+  background-color: #fff !important;
+  border-radius: 20rpx;
+  padding: 25rpx 40rpx 50rpx;
+  width: 690rpx;
+}
+ .popup-order uni-button, .popup-success uni-button {
+  background-color: #FDB302 !important;
+  height: 68rpx;
+  font-size: 26rpx;
+  line-height: 68rpx;
+  width: 320rpx;
+  border-radius: 10rpx;
+}

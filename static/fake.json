@@ -1,0 +1,1174 @@
+{
+	"name": "choushang",
+	"list": [{
+			"id": 1,
+			"type": "终",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_19.png",
+			"name": "戴珍珠耳环的少女",
+			"time": "1656306794497",
+			"group": 0,
+			"sort": "spot",
+			"inBag": false,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类A",
+			"class2": "大分类A-分类a",
+			"class3": "大分类A-分类a-品类1"
+		},
+		{
+			"id": 2,
+			"type": "A",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+			"name": "蒙娜丽莎的微笑",
+			"time": "1656306794498",
+			"group": 0,
+			"sort": "spot",
+			"inBag": false,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类A",
+			"class2": "大分类A-分类a",
+			"class3": "大分类A-分类a-品类2"
+		},
+		{
+			"id": 3,
+			"type": "B",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_23.png",
+			"name": "梵高缺耳自画",
+			"time": "1656306794497",
+			"group": 0,
+			"sort": "pre",
+			"inBag": false,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类B",
+			"class2": "大分类B-分类a",
+			"class3": "大分类B-分类a-品类1"
+		},
+		{
+			"id": 4,
+			"type": "C",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_25.png",
+			"name": "马拉之死",
+			"time": "1656306794400",
+			"group": 0,
+			"sort": "pre",
+			"inBag": false,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类C",
+			"class2": "大分类C-分类a",
+			"class3": "大分类C-分类a-品类1"
+		},
+		{
+			"id": 5,
+			"type": "B",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_23.png",
+			"name": "梵高缺耳自画",
+			"time": "1656306794490",
+			"group": 0,
+			"sort": "single",
+			"inBag": false,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类B",
+			"class2": "大分类B-分类a",
+			"class3": "大分类B-分类a-品类1"
+		},
+		{
+			"id": 6,
+			"type": "A",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+			"name": "蒙娜丽莎的微笑",
+			"time": "1656306794597",
+			"group": 0,
+			"sort": "single",
+			"inBag": false,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类A",
+			"class2": "大分类A-分类a",
+			"class3": "大分类A-分类a-品类1"
+
+		},
+		{
+			"id": 7,
+			"type": "A",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+			"name": "蒙娜丽莎的微笑",
+			"time": "1656306794666",
+			"group": 1,
+			"sort": "single",
+			"inBag": false,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类A",
+			"class2": "大分类A-分类a",
+			"class3": "大分类A-分类a-品类2"
+		},
+		{
+			"id": 8,
+			"type": "A",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+			"name": "蒙娜丽莎的微笑",
+			"time": "1656306794666",
+			"group": 2,
+			"sort": "single",
+			"inBag": false,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类B",
+			"class2": "大分类B-分类b",
+			"class3": "大分类B-分类b-品类1"
+		},
+		{
+			"id": 9,
+			"type": "A",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+			"name": "蒙娜丽莎的微笑",
+			"time": "1656306794666",
+			"group": 0,
+			"sort": "single",
+			"inBag": true,
+			"isdeal": true,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类B",
+			"class2": "大分类B-分类b",
+			"class3": "大分类B-分类b-品类1"
+		},
+		{
+			"id": 10,
+			"type": "A",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+			"name": "蒙娜丽莎的微笑",
+			"time": "1656306794666",
+			"group": 0,
+			"sort": "single",
+			"inBag": true,
+			"isdeal": true,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类B",
+			"class2": "大分类B-分类b",
+			"class3": "大分类B-分类b-品类1"
+		},
+		{
+			"id": 11,
+			"type": "B",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+			"name": "蒙娜丽莎的微笑",
+			"time": "1656306794666",
+			"group": 0,
+			"sort": "single",
+			"inBag": true,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类B",
+			"class2": "大分类B-分类b",
+			"class3": "大分类B-分类b-品类1"
+		},
+		{
+			"id": 12,
+			"type": "B",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+			"name": "蒙娜丽莎的微笑",
+			"time": "1656306794666",
+			"group": 0,
+			"sort": "single",
+			"inBag": true,
+			"isdeal": false,
+			"recover": false,
+			"choose": false,
+			"price": 58.0,
+			"point": 20,
+			"class1": "大分类B",
+			"class2": "大分类B-分类b",
+			"class3": "大分类B-分类b-品类1"
+		}
+	],
+	"address": [{
+			"id": 1,
+			"name": "姓名",
+			"phone": "18012341234",
+			"city": "江苏省无锡市滨湖区",
+			"detail": "滴翠路100号无锡(国家)工业设计园创意园",
+			"location": "地址信息地址信息地址信息地址信息地址信息地址信息",
+			"default": true,
+			"active": true
+		},
+		{
+			"id": 2,
+			"name": "姓名",
+			"phone": "18043214321",
+			"city": "江苏省无锡市滨湖区",
+			"detail": "滴翠路100号无锡(国家)工业设计园创意园",
+			"location": "地址信息地址信息地址信息地址信息地址信息地址信息",
+			"default": false,
+			"active": false
+		}
+	],
+	"autoDatas": [{
+			"id": 1,
+			"keyword": "11111"
+		},
+		{
+			"id": 2,
+			"keyword": "22222"
+		},
+		{
+			"id": 3,
+			"keyword": "qqqqq"
+		},
+		{
+			"id": 4,
+			"keyword": "aaaaa"
+		},
+		{
+			"id": 5,
+			"keyword": "啊啊啊啊啊"
+		},
+		{
+			"id": 6,
+			"keyword": "哈哈哈哈哈"
+		}
+	],
+	"box": [{
+			"id": 1,
+			"name": "系列一",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/p1.png",
+			"url": "/sub-play/pages/play",
+			"onePrice": 58,
+			"amount": 30,
+			"total": 100,
+			"choose": true,
+			"proList": [{
+					"id": 1,
+					"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_19.png",
+					"name": "戴珍珠耳环",
+					"type": "终",
+					"empty": false,
+					"has": 1,
+					"total": 2
+				}, {
+					"id": 2,
+					"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+					"name": "蒙娜丽莎的微笑",
+					"type": "A",
+					"empty": false,
+					"has": 1,
+					"total": 10
+				}, {
+					"id": 3,
+					"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_23.png",
+					"name": "梵高缺耳自画",
+					"type": "B",
+					"empty": true,
+					"has": 5,
+					"total": 20
+				}, {
+					"id": 4,
+					"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_25.png",
+					"name": "马拉之死",
+					"type": "C",
+					"empty": true,
+					"has": 6,
+					"total": 30
+				}, {
+					"id": 5,
+					"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_31.png",
+					"name": "倒牛奶的少女",
+					"type": "D",
+					"empty": true,
+					"has": 2,
+					"total": 50
+				},
+				{
+					"id": 6,
+					"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_31.png",
+					"name": "倒牛奶的少女",
+					"type": "E",
+					"empty": true,
+					"has": 0,
+					"total": 50
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "系列二",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/p2.png",
+			"url": "/sub-play/pages/play",
+			"onePrice": 58,
+			"amount": 50,
+			"total": 100,
+			"choose": false,
+			"proList": [{
+				"id": 1,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_19.png",
+				"name": "戴珍珠耳环",
+				"type": "终",
+				"empty": false,
+				"has": 1,
+				"total": 2
+			}, {
+				"id": 2,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+				"name": "蒙娜丽莎的微笑",
+				"type": "A",
+				"empty": false,
+				"has": 1,
+				"total": 10
+			}, {
+				"id": 3,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_23.png",
+				"name": "梵高缺耳自画",
+				"type": "B",
+				"empty": true,
+				"has": 5,
+				"total": 20
+			}, {
+				"id": 4,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_25.png",
+				"name": "马拉之死",
+				"type": "C",
+				"empty": true,
+				"has": 6,
+				"total": 30
+			}, {
+				"id": 5,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_31.png",
+				"name": "倒牛奶的少女",
+				"type": "D",
+				"empty": true,
+				"has": 2,
+				"total": 50
+			}]
+		},
+		{
+			"id": 3,
+			"name": "系列三",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/p1.png",
+			"url": "/sub-play/pages/play",
+			"onePrice": 58,
+			"amount": 70,
+			"total": 100,
+			"choose": false,
+			"proList": [{
+				"id": 1,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_19.png",
+				"name": "戴珍珠耳环",
+				"type": "终",
+				"empty": false,
+				"has": 1,
+				"total": 2
+			}, {
+				"id": 2,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_21.png",
+				"name": "蒙娜丽莎的微笑",
+				"type": "A",
+				"empty": false,
+				"has": 1,
+				"total": 10
+			}, {
+				"id": 3,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_23.png",
+				"name": "梵高缺耳自画",
+				"type": "B",
+				"empty": true,
+				"has": 5,
+				"total": 20
+			}, {
+				"id": 4,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_25.png",
+				"name": "马拉之死",
+				"type": "C",
+				"empty": true,
+				"has": 6,
+				"total": 30
+			}, {
+				"id": 5,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/pro_31.png",
+				"name": "倒牛奶的少女",
+				"type": "D",
+				"empty": true,
+				"has": 2,
+				"total": 50
+			}]
+		}
+	],
+	"productList": [{
+		"id": 1,
+		"title": "双子星蜜桃冰激凌限",
+		"info": "",
+		"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/p1.png",
+		"presale": true,
+		"price": "320.0",
+		"url": "/sub-play/pages/play",
+		"group": 2
+	}, {
+		"id": 2,
+		"title": "无言有神世界名画系列",
+		"info": "",
+		"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/p2.png",
+		"presale": false,
+		"price": "58.0",
+		"url": "/sub-play/pages/play",
+		"group": 3
+	}],
+	"user": {
+		"userId": 1,
+		"userimgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/user/user.png",
+		"userName": "上山打老虎",
+		"favList": [{
+				"id": 1,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/user/fav1.png",
+				"class1Name": "佳能青春专微IP形象设计",
+				"flagPreSale": true,
+				"price": "320.0",
+				"flagOffSale": false,
+				"choose": false,
+				"class1Code":"C0000001"
+			},
+			{
+				"id": 2,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/user/fav2.png",
+				"class1Name": "李小卿照：打造济南1号文化IP济南国风符号",
+				"flagPreSale": false,
+				"price": "58.0",
+				"flagOffSale": true,
+				"choose": false,
+				"class1Code":"C0000001"
+			},
+			{
+				"id": 3,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/user/fav3.png",
+				"class1Name": "BIGO AWARDS GALA 2022",
+				"flagPreSale": false,
+				"price": "320.0",
+				"flagOffSale": false,
+				"choose": false,
+				"class1Code":"C0000002"
+			}
+		],
+		"account": {
+			"remain": 500.00
+		},
+		"postcards": [{
+				"type": 58,
+				"price": 58,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/58.png",
+				"amount": 5
+			},
+			{
+				"type": 98,
+				"price": 98,
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/play/98.png",
+				"amount": 1
+			}
+		],
+		"history": {
+			"times": 3,
+			"quality": 11,
+			"orders": [{
+					"id": "12346834651324",
+					"name": "从零开始的异世界生活",
+					"time": "02 20,2022 22:50:02",
+					"date": "1645368602000",
+					"quality": 5,
+					"price": "100.0"
+				},
+				{
+					"id": "12346863215788",
+					"name": "从零开始的异世界生活-欢喜篇",
+					"time": "02 19,2022 22:50:02",
+					"date": "1645282202000",
+					"quality": 1,
+					"price": "20.0"
+				},
+				{
+					"id": "12346854612335",
+					"name": "从零开始的异世界生活-欢喜篇",
+					"time": "02 17,2022 22:50:02",
+					"date": "1645109402000",
+					"quality": 5,
+					"price": "100.0"
+				}
+			]
+		},
+		"address": [{
+				"id": 1,
+				"customerName": "姓名",
+				"phone": "18012341234",
+				"city": "江苏省无锡市滨湖区",
+				"detail": "滴翠路100号无锡(国家)工业设计园创意园",
+				"location": "江苏省无锡市滨湖区滴翠路100号无锡(国家)工业设计园创意园",
+				"flagDefault": true
+			},
+			{
+				"id": 2,
+				"customerName": "姓名",
+				"phone": "18043214321",
+				"city": "江苏省无锡市滨湖区",
+				"detail": "滴翠路100号无锡(国家)工业设计园创意园",
+				"location": "江苏省无锡市滨湖区滴翠路100号无锡(国家)工业设计园创意园",
+				"flagDefault": false
+			},
+			{
+				"id": 3,
+				"customerName": "姓名",
+				"phone": "18043213333",
+				"city": "江苏省无锡市滨湖区",
+				"detail": "滴翠路100号无锡(国家)工业设计园创意园",
+				"location": "江苏省无锡市滨湖区滴翠路100号无锡(国家)工业设计园创意园",
+				"flagDefault": false
+			}
+		],
+		"bill": [{
+				"year": "2021",
+				"month": "03",
+				"total": "-258.0",
+				"list": [{
+						"id": "5000",
+						"time": "1615766400000",
+						"date": "2021-03-15 20:05:31",
+						"type": "交易",
+						"amount": "-58.0"
+					},
+					{
+						"id": "4999",
+						"time": "1615680000000",
+						"date": "2021-03-14 20:05:31",
+						"type": "充值",
+						"amount": "+300.0"
+					},
+					{
+						"id": "4998",
+						"time": "1618488331000",
+						"date": "2021-03-10 20:05:31",
+						"type": "提现",
+						"amount": "-200.0"
+					}
+				]
+			},
+			{
+				"year": "2021",
+				"month": "02",
+				"total": "-258.0",
+				"list": [{
+						"id": "4000",
+						"time": "1614384000000",
+						"date": "2021-02-27 20:05:31",
+						"type": "交易",
+						"amount": "-58.0"
+					},
+					{
+						"id": "3999",
+						"time": "1613520000000",
+						"date": "2021-02-17 20:05:31",
+						"type": "充值",
+						"amount": "+300.0"
+					},
+					{
+						"id": "3998",
+						"time": "1612656000000",
+						"date": "2021-02-07 20:05:31",
+						"type": "交易",
+						"amount": "-200.0"
+					}
+				]
+			},
+			{
+				"year": "2022",
+				"month": "07",
+				"total": "-58.0",
+				"list": [{
+						"id": "3000",
+						"time": "1658534400000",
+						"date": "2022-07-23 08:00:00",
+						"type": "交易",
+						"amount": "-58.0"
+					},
+					{
+						"id": "3000",
+						"time": "1658534400000",
+						"date": "2022-07-23 08:00:00",
+						"type": "交易",
+						"amount": "-58.0"
+					}
+				]
+			}
+		]
+	},
+	"allClass": [{
+			"name": "大分类A",
+			"choose": false,
+			"child": [{
+					"name": "分类a",
+					"choose": false,
+					"child": [{
+							"name": "品类1",
+							"choose": false
+						},
+						{
+							"name": "品类2",
+							"choose": false
+						}
+					]
+				},
+				{
+					"name": "分类b",
+					"choose": false,
+					"child": [{
+							"name": "品类1",
+							"choose": false
+						},
+						{
+							"name": "品类2",
+							"choose": false
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "大分类B",
+			"choose": false,
+			"child": [{
+					"name": "分类a",
+					"choose": false,
+					"child": [{
+							"name": "品类1",
+							"choose": false
+						},
+						{
+							"name": "品类2",
+							"choose": false
+						}
+					]
+				},
+				{
+					"name": "分类b",
+					"choose": false,
+					"child": [{
+							"name": "品类1",
+							"choose": false
+						},
+						{
+							"name": "品类2",
+							"choose": false
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "从零开始的异世界生活",
+			"choose": false,
+			"child": [{
+				"name": "从零开始的异世界生活-欢喜篇",
+				"choose": false,
+				"child": [{
+					"name": "品类1",
+					"choose": false
+				}]
+			}]
+		}
+	],
+	"shop": [
+		{
+		"id": "1",
+		"username": "上山打老虎",
+		"userimgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/user1.png",
+		"time": "1645368602000",
+		"date": "2021/02/20 22:50:02",
+		"isComplete":false,
+		"info": "求购一套爱咕噜小猪仔仔。",
+		"lowPrice":"10",
+		"onePrice":"100",
+		"auctionTimes":"5",
+		"auction":[
+			{
+				"floor":"1",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"看山山路远",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[]
+			},
+			{
+				"floor":"2",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"爱奇艺",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[]
+			},
+			{
+				"floor":"3",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"乾坤",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[
+					{
+						"name": "名称",
+						"class1": "大分类A",
+						"class2": "分类a",
+						"class3": "品类1",
+						"type": "C",
+						"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+					}
+				]
+			},
+			{
+				"floor":"4",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"圆圆",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[
+					{
+						"name": "名称",
+						"class1": "大分类A",
+						"class2": "分类a",
+						"class3": "品类1",
+						"type": "C",
+						"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+					}
+				]
+			},
+			{
+				"floor":"5",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"木有名字",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[
+					{
+						"name": "名称",
+						"class1": "大分类A",
+						"class2": "分类a",
+						"class3": "品类1",
+						"type": "A",
+						"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+					}
+				]
+			}
+		],
+		"wish": {
+			"has": true,
+			"name": "名称",
+			"class1": "大分类A",
+			"class2": "分类a",
+			"class3": "品类1",
+			"type": "A",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+		},
+		"list": [
+			{
+				"name": "名称1",
+				"class1": "大分类A",
+				"class2": "分类a",
+				"class3": "品类1",
+				"type": "A",
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p2.png"
+			},
+			{
+				"name": "名称2",
+				"class1": "大分类A",
+				"class2": "分类a",
+				"class3": "品类1",
+				"type": "A",
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p3.png"
+			},
+			{
+				"name": "名称1",
+				"class1": "大分类A",
+				"class2": "分类a",
+				"class3": "品类1",
+				"type": "A",
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p2.png"
+			},
+			{
+				"name": "名称2",
+				"class1": "大分类A",
+				"class2": "分类a",
+				"class3": "品类1",
+				"type": "A",
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p3.png"
+			}
+
+		]
+	},
+	{
+		"id": "2",
+		"username": "Luna",
+		"userimgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/user2.png",
+		"time": "1658980800000",
+		"date": "2022/07/28 12:00:00",
+		"isComplete":true,
+		"info": "出。",
+		"lowPrice":"10",
+		"onePrice":"100",
+		"auctionTimes":"5",
+		"auction":[
+			{
+				"floor":"1",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"看山山路远",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[]
+			},
+			{
+				"floor":"2",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"上山打老虎",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[]
+			},
+			{
+				"floor":"3",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"天元",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[
+					{
+						"name": "名称",
+						"class1": "大分类A",
+						"class2": "分类a",
+						"class3": "品类1",
+						"type": "C",
+						"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+					}
+				]
+			},
+			{
+				"floor":"4",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"远远",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[
+					{
+						"name": "名称",
+						"class1": "大分类A",
+						"class2": "分类a",
+						"class3": "品类1",
+						"type": "C",
+						"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+					}
+				]
+			},
+			{
+				"floor":"5",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"木有名字",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[
+					{
+						"name": "名称",
+						"class1": "大分类A",
+						"class2": "分类a",
+						"class3": "品类1",
+						"type": "A",
+						"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+					}
+				]
+			}
+		],
+		"wish": {
+			"has": false,
+			"name": "",
+			"class1": "",
+			"class2": "",
+			"class3": "",
+			"type": "",
+			"imgUrl": ""
+		},
+		"list": [
+			{
+				"name": "名称1",
+				"class1": "大分类A",
+				"class2": "分类a",
+				"class3": "品类1",
+				"type": "A",
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+			}
+		]
+	},
+	{
+		"id": "3",
+		"username": "Luna",
+		"userimgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/user2.png",
+		"time": "1659585600000",
+		"date": "2022/08/04 12:00:00",
+		"isComplete":false,
+		"info": "出。",
+		"lowPrice":"10",
+		"onePrice":"100",
+		"auctionTimes":"5",
+		"auction":[
+			{
+				"floor":"1",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"看山山路远",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[]
+			},
+			{
+				"floor":"2",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"上山打老虎",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[]
+			},
+			{
+				"floor":"3",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"天元",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[
+					{
+						"name": "名称",
+						"class1": "大分类A",
+						"class2": "分类a",
+						"class3": "品类1",
+						"type": "C",
+						"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+					}
+				]
+			},
+			{
+				"floor":"4",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"远远",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[
+					{
+						"name": "名称",
+						"class1": "大分类A",
+						"class2": "分类a",
+						"class3": "品类1",
+						"type": "C",
+						"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+					}
+				]
+			},
+			{
+				"floor":"5",
+				"userimgUrl":"/static/images/admin.png",
+				"username":"木有名字",
+				"price":"28.0",
+				"hasgoods":false,
+				"goods":[
+					{
+						"name": "名称",
+						"class1": "大分类A",
+						"class2": "分类a",
+						"class3": "品类1",
+						"type": "A",
+						"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+					}
+				]
+			}
+		],
+		"wish": {
+			"has": true,
+			"name": "名称",
+			"class1": "",
+			"class2": "",
+			"class3": "",
+			"type": "A",
+			"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+		},
+		"list": [
+			{
+				"name": "名称1",
+				"class1": "大分类A",
+				"class2": "分类a",
+				"class3": "品类1",
+				"type": "A",
+				"imgUrl": "https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/p1.png"
+			}
+		]
+	}
+	],
+	"flash":[
+		{
+			"imgUrl":"https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/f1.png",
+			"name":"十二星座白羊座",
+			"class1":"大分类A",
+			"class2":"分类a",
+			"class3":"品类1"
+		},
+		{
+			"imgUrl":"https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/f2.png",
+			"name":"世界名画",
+			"class1":"大分类A",
+			"class2":"分类a",
+			"class3":"品类1"
+		},
+		{
+			"imgUrl":"https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/f3.png",
+			"name":"爱咕噜小猪仔仔",
+			"class1":"大分类A",
+			"class2":"分类a",
+			"class3":"品类1"
+		},
+		{
+			"imgUrl":"https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/f4.png",
+			"name":"从零开始的异世界生活-欢喜篇",
+			"class1":"从零开始的异世界生活",
+			"class2":"从零开始的异世界生活-欢喜篇",
+			"class3":"品类1"
+		}	
+	],
+	"ucharts":{
+		"categories": ["2016", "2017", "2018", "2019", "2020", "2021"],
+		"series": [{
+				"name": "闪购",
+				"data": [35, 36, 31, 33, 13, 34]
+			},
+			{
+				"name": "闪出",
+				"data": [36, 31, 33, 13, 34, 35]
+			}
+		]
+	},
+	"mySell":[
+		{
+			"imgUrl":"https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/f1.png",
+			"name":"十二星座白羊座",
+			"class1Name":"大分类A",
+			"class2Name":"分类a",
+			"class3Name":"品类1",
+			"price":"320.0",
+			"amount":1,
+			"soldAmount":0
+		},
+		{
+			"imgUrl":"https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/f2.png",
+			"name":"世界名画",
+			"class1Name":"大分类A",
+			"class2Name":"分类a",
+			"class3Name":"品类1",
+			"price":"320.0",
+			"amount":5,
+			"soldAmount":2
+		},
+		{
+			"imgUrl":"https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/f3.png",
+			"name":"爱咕噜小猪仔仔",
+			"class1Name":"大分类A",
+			"class2Name":"分类a",
+			"class3Name":"品类1",
+			"price":"58.0",
+			"amount":5,
+			"soldAmount":1
+		},
+		{
+			"imgUrl":"https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/shop/f4.png",
+			"name":"从零开始的异世界生活-欢喜篇",
+			"class1Name":"从零开始的异世界生活",
+			"class2Name":"从零开始的异世界生活-欢喜篇",
+			"class3Name":"品类1",
+			"price":"58.0",
+			"amount":1,
+			"soldAmount":1
+		}	
+	],
+	"selling":[
+		{
+			"imgUrl":"/static/images/admin.png",
+			"price":"95.0",
+			"amount":"1"
+		},
+		{
+			"imgUrl":"/static/images/admin.png",
+			"price":"95.0",
+			"amount":"1"
+		},
+		{
+			"imgUrl":"/static/images/admin.png",
+			"price":"100.0",
+			"amount":"1"
+		}
+	],
+	"buying":[
+		{
+			"imgUrl":"/static/images/admin.png",
+			"price":"95.0",
+			"amount":"1",
+			"time":"1661238591000",
+			"name":"sadasd"
+		},
+		{
+			"imgUrl":"/static/images/admin.png",
+			"price":"95.0",
+			"amount":"1",
+			"time":"1661239592000",
+			"name":"啊实打实大苏打"
+		},
+		{
+			"imgUrl":"/static/images/admin.png",
+			"price":"100.0",
+			"amount":"1",
+			"time":"1661242593000",
+			"name":"123"
+		},
+		{
+			"imgUrl":"/static/images/admin.png",
+			"price":"100.0",
+			"amount":"1",
+			"time":"1661146043000",
+			"name":"阿斯顿525"
+		},
+		{
+			"imgUrl":"/static/images/admin.png",
+			"price":"85.0",
+			"amount":"1",
+			"time":"1660973243000",
+			"name":"5a"
+		}
+	]
+}

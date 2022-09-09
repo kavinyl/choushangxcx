@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "search-area": "../../components/search-area/search-area"
+  }
+}

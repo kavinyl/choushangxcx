@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "开赏记录",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-load-more": "../../uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "uni-search-bar": "../../uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "uni-drawer": "../../uni_modules/uni-drawer/components/uni-drawer/uni-drawer"
+  }
+}

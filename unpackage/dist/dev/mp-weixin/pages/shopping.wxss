@@ -1,0 +1,333 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.container-shopping {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  flex-direction: column;
+}
+.container-shopping .head {
+  height: 90rpx;
+}
+.container-shopping .body {
+  height: calc(100vh - 90rpx);
+}
+.shop-top {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 10rpx;
+}
+.shop-top .shop-top-item {
+  padding: 0 40rpx;
+  height: 68rpx;
+  line-height: 66rpx;
+  border: 1rpx solid transparent;
+  font-size: 28rpx;
+  color: #020202;
+  background-color: #fff;
+  border-radius: 20rpx;
+}
+.shop-top .active {
+  background-color: #FDF5E2;
+  color: #F9B002;
+  border-color: #F9B002;
+}
+.shop-top .pic {
+  width: 32rpx;
+  height: 32rpx;
+  display: inline-block;
+  margin: 17rpx 10rpx;
+  vertical-align: middle;
+}
+.deals-area {
+  margin-top: 30rpx;
+  border-radius: 35rpx 35rpx 0 0;
+  box-shadow: 0 -5rpx 0 rgba(0, 0, 0, 0.05);
+  padding: 20rpx;
+}
+ .deals-area .segmented-control__text {
+  font-size: 28rpx;
+  line-height: 44rpx;
+}
+.search-area-shopping {
+  padding: 5rpx 30rpx;
+}
+.search-area-shopping .search-right {
+  font-size: 28rpx;
+  color: #0072FE;
+}
+.uni-searchbar {
+  height: 68rpx;
+  padding: 0 !important;
+}
+ .uni-searchbar__box {
+  border-radius: 34rpx !important;
+  width: 620rpx;
+  height: 68rpx !important;
+  justify-content: flex-start !important;
+}
+ .uniui-search:before {
+  content: "" !important;
+  background: url(https://xcxcs.obs.cn-east-3.myhuaweicloud.com/images/search.png) no-repeat;
+  background-size: 100%;
+  width: 40rpx;
+  height: 40rpx;
+  display: block;
+  margin: 0 10rpx 0 30rpx;
+}
+ .uni-searchbar__box-icon-search {
+  padding: 0% !important;
+}
+.dealList .border {
+  margin: 20rpx;
+  padding: 20rpx 30rpx;
+  box-shadow: 0 0 10rpx rgba(0, 0, 0, 0.05);
+  border-radius: 10rpx;
+}
+.dealList .border .item-top {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.dealList .border .item-top .user-img {
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 30rpx;
+  margin-right: 10rpx;
+}
+.dealList .border .item-top .user-name {
+  font-size: 30rpx;
+  color: #7C7B7B;
+}
+.dealList .border .item-top .time {
+  flex: 1;
+  text-align: right;
+  font-size: 22rpx;
+  color: #6E6D6D;
+}
+.dealList .border .item-top .complete {
+  flex: 1;
+  text-align: right;
+  font-size: 26rpx;
+  color: #F9B002;
+}
+.dealList .border .info {
+  font-size: 30rpx;
+  color: #020202;
+  margin: 30rpx 0 20rpx;
+}
+.dealList .border .lists {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
+.dealList .border .lists .wish {
+  background-color: #FEF4DC;
+  width: 140rpx;
+  height: 140rpx;
+  padding: 15rpx;
+  margin-right: 10rpx;
+  border-radius: 10rpx;
+  position: relative;
+}
+.dealList .border .lists .wish .haswish {
+  position: absolute;
+  left: 15rpx;
+  top: 15rpx;
+  width: 110rpx;
+  height: 110rpx;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  color: #fff;
+  line-height: 110rpx;
+}
+.dealList .border .lists .list-img {
+  width: 110rpx;
+  height: 110rpx;
+}
+.dealList .border .lists .type {
+  position: absolute;
+  top: 15rpx;
+  left: 15rpx;
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  color: #FDB302;
+  background-color: #020202;
+  text-align: center;
+}
+.dealList .border .lists .sell {
+  display: inline-flex;
+  flex: 1;
+  flex-wrap: nowrap;
+  overflow: auto;
+}
+.dealList .border .lists .sell .items {
+  width: 140rpx;
+  height: 140rpx;
+  padding: 15rpx;
+  position: relative;
+}
+.dealList .border .item-bottom {
+  margin: 20rpx 0;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.dealList .border .item-bottom .lowprice,
+.dealList .border .item-bottom .oneprice {
+  font-size: 24rpx;
+  color: #575757;
+  margin-right: 30rpx;
+}
+.dealList .border .item-bottom .price {
+  color: #020202;
+}
+.dealList .border .item-bottom .auction {
+  font-size: 24rpx;
+  color: #565656;
+  flex: 1;
+}
+.flash-area .flash-list {
+  padding: 0 20rpx;
+}
+.flash-area .flash-list .box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 30rpx;
+}
+.flash-area .flash-list .box .border {
+  width: 350rpx;
+  height: 435rpx;
+  margin: 0 0 20rpx;
+  box-shadow: 0 0 5rpx rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+  border-radius: 10rpx;
+}
+.flash-area .flash-list .box .border .img {
+  width: 350rpx;
+  height: 350rpx;
+}
+.flash-area .flash-list .box .border .title {
+  font-size: 24rpx;
+  color: #000;
+  margin: 20rpx auto 0;
+  width: 330rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.flash-area .flash-list .my-sell .border,
+.flash-area .flash-list .my-buy .border {
+  width: 710rpx;
+  height: 220rpx;
+  padding: 20rpx 10rpx;
+  position: relative;
+}
+.flash-area .flash-list .my-sell .border .img,
+.flash-area .flash-list .my-buy .border .img {
+  width: 180rpx;
+  height: 180rpx;
+  float: left;
+  margin-right: 20rpx;
+}
+.flash-area .flash-list .my-sell .border .title,
+.flash-area .flash-list .my-buy .border .title {
+  width: 400rpx;
+  font-size: 30rpx;
+  color: #020202;
+  margin: 0;
+}
+.flash-area .flash-list .my-sell .border .info,
+.flash-area .flash-list .my-buy .border .info {
+  font-size: 24rpx;
+  color: #807F7F;
+  width: 400rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.flash-area .flash-list .my-sell .border .sell-price,
+.flash-area .flash-list .my-buy .border .sell-price {
+  font-size: 24rpx;
+  color: #807F7F;
+  margin-top: 22rpx;
+}
+.flash-area .flash-list .my-sell .border .sell-price .pic,
+.flash-area .flash-list .my-buy .border .sell-price .pic {
+  width: 30rpx;
+  height: 30rpx;
+  display: inline-block;
+  vertical-align: bottom;
+  margin-left: 20rpx;
+}
+.flash-area .flash-list .my-sell .border .sell-amount,
+.flash-area .flash-list .my-buy .border .sell-amount {
+  font-size: 24rpx;
+  color: #807F7F;
+  margin-top: 22rpx;
+}
+.flash-area .flash-list .my-sell .border .control-area,
+.flash-area .flash-list .my-buy .border .control-area {
+  position: absolute;
+  top: 50%;
+  right: 10rpx;
+  width: 80rpx;
+  height: 80rpx;
+  transform: translateY(-40rpx);
+}
+.flash-area .flash-list .my-sell .border .control-area .delete,
+.flash-area .flash-list .my-buy .border .control-area .delete {
+  width: 30rpx;
+  height: 30rpx;
+  position: absolute;
+  top: 25rpx;
+  left: 25rpx;
+}
+.bag {
+  position: fixed;
+  z-index: 50;
+  right: 10rpx;
+  bottom: 160rpx;
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+  background-color: #FDF5E2;
+}
+.bag .pic {
+  position: absolute;
+  top: 26rpx;
+  left: 26rpx;
+  width: 48rpx;
+  height: 48rpx;
+}

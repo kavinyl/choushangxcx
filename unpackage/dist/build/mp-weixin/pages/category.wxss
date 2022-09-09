@@ -1,0 +1,1 @@
+.head{display:flex;flex-wrap:nowrap;justify-content:space-between;width:100%;height:100rpx;padding:0 55rpx}.head .ship{width:180rpx;height:68rpx;border-radius:15rpx;color:#181818;font-size:28rpx;line-height:66rpx;border:1rpx solid transparent}.head .active{background-color:#fdf5e2;border-color:#fdb302;color:#f9b002;font-weight:700}

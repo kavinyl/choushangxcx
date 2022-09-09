@@ -1,0 +1,1 @@
+<view class="container"><form bindsubmit="{{e}}" ref="withdrawal"><view class="title"> 提现至微信钱包 </view><view class="money"><text class="rmb">￥</text> <input focus name="withdrawal" type="number" class="input" bindblur="{{a}}" value="{{b}}" bindinput="{{c}}"></input></view><view class="tips">当前可提现金额 ￥ {{d}}</view><button class="btn t-c" form-type="submit">提现</button></form></view>

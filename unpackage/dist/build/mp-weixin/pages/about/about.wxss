@@ -1,0 +1,1 @@
+.container-about{padding:30rpx}.container-about .title{font-size:36rpx;font-weight:700;color:#020202}.container-about .part{margin-top:20rpx}.container-about .part .p:first-child{font-size:30rpx;color:#020202}.container-about .p{font-size:26rpx;margin-bottom:10rpx;color:#333}.container-about .b{font-weight:700}

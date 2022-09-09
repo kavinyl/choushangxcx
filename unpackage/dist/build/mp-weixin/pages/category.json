@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "赏柜",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "cabinet": "../components/cabinet/cabinet"
+  }
+}

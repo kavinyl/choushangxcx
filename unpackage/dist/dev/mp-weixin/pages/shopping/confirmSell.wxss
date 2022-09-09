@@ -1,0 +1,171 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.confirm-top {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30rpx 0 20rpx;
+  margin: 0 30rpx;
+  border-bottom: 1rpx solid #E5E5E5;
+}
+.confirm-top .img {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  margin-right: 20rpx;
+}
+.confirm-top .info {
+  flex: 1;
+}
+.confirm-top .info .name {
+  font-size: 30rpx;
+  color: #020202;
+  line-height: 1;
+}
+.confirm-top .info .class {
+  font-size: 24rpx;
+  color: #807F7F;
+  margin-top: 10rpx;
+  line-height: 1;
+  margin-bottom: 37rpx;
+}
+.buyer-area {
+  padding: 25rpx 30rpx;
+}
+.buyer-area .buyer-title {
+  font-size: 30rpx;
+  color: #020202;
+  margin-bottom: 30rpx;
+}
+.buyer-area .border {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+.buyer-area .border .title {
+  font-size: 26rpx;
+  color: #595858;
+  line-height: 40rpx;
+  width: 220rpx;
+}
+.buyer-area .border .detail {
+  font-size: 26rpx;
+  color: #595858;
+  line-height: 40rpx;
+}
+.buyer-area .border .detail .pic {
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 20rpx;
+  display: inline-block;
+  vertical-align: bottom;
+  margin-right: 10rpx;
+}
+.deal-area {
+  margin: 0 30rpx;
+  border-top: 1px solid #E5E5E5;
+  padding: 20rpx 0 100rpx;
+}
+.deal-area .deal-title {
+  font-size: 30rpx;
+  color: #020202;
+  margin-bottom: 30rpx;
+}
+.deal-area .border {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin-bottom: 20rpx;
+  box-sizing: border-box;
+}
+.deal-area .border .title {
+  font-size: 26rpx;
+  color: #595858;
+  line-height: 40rpx;
+  width: 140rpx;
+}
+.deal-area .border .detail {
+  flex: 1;
+  position: relative;
+}
+.deal-area .border .detail .input {
+  width: 550rpx;
+  height: 88rpx;
+  padding: 24rpx 15rpx;
+  font-size: 24rpx;
+  color: #595858;
+  box-sizing: border-box;
+  background-color: #FDF3DE;
+  border-radius: 10rpx;
+}
+.deal-area .border .detail .tips {
+  position: absolute;
+  font-size: 24rpx;
+  color: #646363;
+  left: 10rpx;
+  top: 98rpx;
+}
+.deal-area .price {
+  margin-top: 90rpx;
+}
+.deal-area .price .detail {
+  font-size: 30rpx;
+  color: #FE0101;
+}
+.deal-area .rules {
+  margin-top: 40rpx;
+}
+.deal-area .rules .title {
+  align-self: flex-start;
+}
+.deal-area .rules .p {
+  font-size: 26rpx;
+  color: #595858;
+  line-height: 40rpx;
+  margin-bottom: 10rpx;
+}
+.bottom {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100rpx;
+  border-top: 1rpx solid #F7F7F7;
+  background-color: #fff;
+}
+.bottom .btn {
+  margin: 16rpx auto;
+  width: 340rpx;
+  height: 68rpx;
+  color: #fff;
+  border-radius: 34rpx;
+  line-height: 68rpx;
+  background-color: #F9B002;
+  font-size: 26rpx;
+}

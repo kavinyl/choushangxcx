@@ -1,0 +1,1 @@
+<view><search-area wx:if="{{b}}" class="r" u-r="searcharea" u-i="fd71894a-0" bind:__l="__l" u-p="{{b}}"></search-area><pro-list wx:if="{{c}}" u-i="fd71894a-1" bind:__l="__l" u-p="{{c}}"></pro-list></view>
